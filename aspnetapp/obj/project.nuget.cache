@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+Md+nfwsnA=",
+  "dgSpecHash": "U09aB9ov0IU=",
   "success": true,
-  "projectFilePath": "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+  "projectFilePath": "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

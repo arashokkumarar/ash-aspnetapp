@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj": {}
+    "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj": {}
   },
   "projects": {
-    "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj": {
+    "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+        "projectUniqueName": "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
         "projectName": "aspnetapp",
-        "projectPath": "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
+        "projectPath": "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\aspnetapp.csproj",
         "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
-        "outputPath": "c:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\obj\\",
+        "outputPath": "C:\\ash\\ash\\dotnet-docker-main\\samples\\aspnetapp\\aspnetapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "c:\\ash\\ash\\dotnet-docker-main\\NuGet.Config",
+          "C:\\ash\\ash\\dotnet-docker-main\\NuGet.Config",
           "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
