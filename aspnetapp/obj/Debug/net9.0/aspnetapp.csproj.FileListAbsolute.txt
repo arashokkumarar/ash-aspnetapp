@@ -92,3 +92,4 @@ C:\ash\ash\dotnet-docker-main\samples\aspnetapp\aspnetapp\obj\Debug\net9.0\refin
 C:\ash\ash\dotnet-docker-main\samples\aspnetapp\aspnetapp\obj\Debug\net9.0\aspnetapp.pdb
 C:\ash\ash\dotnet-docker-main\samples\aspnetapp\aspnetapp\obj\Debug\net9.0\aspnetapp.genruntimeconfig.cache
 C:\ash\ash\dotnet-docker-main\samples\aspnetapp\aspnetapp\obj\Debug\net9.0\ref\aspnetapp.dll
+C:\ash\ash\dotnet-docker-main\samples\aspnetapp\aspnetapp\obj\Debug\net9.0\aspnetapp.sourcelink.json
